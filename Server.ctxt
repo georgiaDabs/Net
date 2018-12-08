@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ setUp()
+comment3.params=song\ artist
+comment3.target=void\ newArtistSong(java.lang.String,\ java.lang.String)
+numComments=4
